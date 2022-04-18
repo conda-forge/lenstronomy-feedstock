@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/lenstronomy-{{ version }}.tar.gz
-  sha256: ebb0f98f1ad7df82a06cedc2d6eb44a72a1ba33ca5abc03c4d5cbd38cceedd1b
+  sha256: 66dbcabc38039b425b006e2ba206dcf29003152b3f985c345f53032f0ca5d638
 
 build:
   noarch: python
