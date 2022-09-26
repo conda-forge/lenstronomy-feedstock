@@ -1,7 +1,7 @@
 About lenstronomy
 =================
 
-Home: https://github.com/sibirrer/lenstronomy
+Home: https://github.com/lenstronomy/lenstronomy
 
 Package license: MIT
 
