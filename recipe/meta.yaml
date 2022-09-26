@@ -48,7 +48,7 @@ test:
 about:
   home: https://github.com/lenstronomy/lenstronomy
   summary: Strong lens modeling package.
-  license: BSD-3
+  license: BSD-3-Clause
   license_file: LICENSE
 
 extra:
