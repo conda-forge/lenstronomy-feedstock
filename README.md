@@ -1,11 +1,11 @@
-About lenstronomy
-=================
+About lenstronomy-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/lenstronomy-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/lenstronomy/lenstronomy
 
-Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/lenstronomy-feedstock/blob/main/LICENSE.txt)
+Package license: BSD-3-Clause
 
 Summary: Strong lens modeling package.
 
