@@ -1,5 +1,5 @@
 {% set name = "lenstronomy" %}
-{% set version = "1.12.0" %}
+{% set version = "1.12.1" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/lenstronomy-{{ version }}.tar.gz
-  sha256: 449fe3433feb0b3c6f233980f1dc30227d29baca68bd818f3501e963ea37c02e
+  sha256: 961e2da46d0c8d13caf66e6756bfd53d26eb088a23ed58a933400bcefb3ea132
 
 
 build:
